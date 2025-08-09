@@ -3,15 +3,14 @@ Este projeto é um conversor de moedas que utiliza uma API para realizar a conve
 de valores entre diferentes moedas de acordo com a cotação atual.
 É uma aplicação simples de integração de APIs e manipulação de dados com pyhton.
 
---> Como usar:
+## Como usar:
 1. Clone o repositório:
-```bash
-git clone https://github.com/seuusuario/nome-do-repo.git
+  git clone https://github.com/GiovannaFChin/nome-do-repo.git
 2. Instale a dependência necessária:
-pip install requests
+  pip install requests
 3. Execute o programa:
-python "conversor de moedas.py"
+  python "conversor de moedas.py"
 
--->Tecnologias usadas:
+## tecnologias usadas:
 -Python 3.x
 -Biblioteca requests
