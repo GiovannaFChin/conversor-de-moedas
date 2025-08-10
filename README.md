@@ -5,7 +5,7 @@ de valores entre diferentes moedas de acordo com a cotação atual.
 
 ## Como usar:
 1. Clone o repositório:
-  git clone https://github.com/GiovannaFChin/conversor=de-moedas.git
+  git clone https://github.com/GiovannaFChin/conversor-de-moedas.git
 2. Instale a dependência necessária:
   pip install requests
 3. Execute o programa:
